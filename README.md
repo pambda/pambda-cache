@@ -1,0 +1,5 @@
+# pambda-cache
+
+## License
+
+MIT
