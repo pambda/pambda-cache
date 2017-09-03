@@ -23,7 +23,8 @@
     "url": "git+https://github.com/pambda/pambda-cache.git"
   },
   "scripts": {
-    "lint": "eslint lib"
+    "lint": "eslint lib",
+    "prepublishOnly": "npm run lint"
   },
   "files": [
     "README.md",
